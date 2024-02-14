@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Coffee",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://i.ibb.co/F8Mvs42/populer10.jpg",
+        "category": "popular",
+        "price": 14.7
+    },
+    {
+        "id": 2,
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://i.ibb.co/rk7yBFd/populer1.jpg",
+        "category": "popular",
+        "price": 14.7
+    },
+    {
+        "id": 3,
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Escalope de Veau",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/NW8T50V/populer10.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "id": 4,
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/THRLSV1/populer9.jpg",
+        "category": "popular",
+        "price": 12.5
+    }
+]
